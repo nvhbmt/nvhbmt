@@ -35,8 +35,8 @@ embeddable Preact chat widget.
 | Project | What it is | Stack | Status |
 | --- | --- | --- | --- |
 | **[iExam](https://iexam.vn)** | Online exam platform built for maths papers: LaTeX rendered with KaTeX, the three question types Vietnamese exams use, live progress tracking, anti-cheat. **500+ teachers**, 2,389 tests, 126k LOC. | React 19 · Vite · Hono · Drizzle · Postgres | 🟢 [iexam.vn](https://iexam.vn) |
-| **[BCN Judge](https://github.com/nvhbmt/bcn-judge)** | A club online judge: courses, testcase grading inside per-submission Docker sandboxes, weekly contests with a freezing scoreboard, Discord login. 904 tests, 56k LOC. | React 19 · Hono · Postgres 17 · dockerode · MinIO | 🟡 In development |
-| **Thi đua THPT Tông Lệnh** | A conduct-tracking PWA for a high school, rewritten from a legacy Firebase app into clean architecture with shared business rules. 3,281 tests, 173k LOC. | React 19 · PWA · Hono · Drizzle · Postgres 17 | 🟡 Private repo |
+| **[BCN Judge](https://github.com/nvhbmt/bcn-judge)** | A club online judge: courses, testcase grading inside per-submission Docker sandboxes, weekly contests with a freezing scoreboard, Discord login. 904 tests, 56k LOC. | React 19 · Hono · Postgres 17 · dockerode · MinIO | 🟢 In production |
+| **Thi đua THPT Tông Lệnh** | A conduct-tracking PWA for a high school, rewritten from a legacy Firebase app into clean architecture with shared business rules. 3,281 tests, 173k LOC. | React 19 · PWA · Hono · Drizzle · Postgres 17 | 🟢 In production · private repo |
 | **[cunpoi.tech](https://github.com/nvhbmt/cunpoi-tech)** | My personal site — static, bilingual (VI/EN), no tracking. | Astro · Three.js | 🟢 [cunpoi.tech](https://cunpoi.tech) |
 
 Design, frontend, backend, deploys and the 2 a.m. incidents — all mine. Roughly **6,500
